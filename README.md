@@ -45,7 +45,7 @@ print(rank)
 `````
 
 ## Output:
-![Screenshot 2024-04-07 154228](https://github.com/gowxz/RANK-OF-A-MATRIX/assets/155504997/72bfa383-278d-4ee0-baef-4eb48bad0695)
+![Screenshot 2024-04-08 100337](https://github.com/gowxz/RANK-OF-A-MATRIX/assets/155504997/78d132b8-8bed-499c-8499-35a96170accc)
 
 
 

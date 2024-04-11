@@ -31,11 +31,9 @@ Write a program to find the rank for the given matrix([5,-3,-10],[2,2,-3],[-3,-1
 ```
 ## Program:
 ```
-/*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by:Gowtham S 
 RegisterNumber:2305002008  
-*/
+
 ```
 `````python
 import numpy as np

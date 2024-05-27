@@ -1,6 +1,6 @@
 # Ex:2.RANK-OF-A-MATRIX
 
-# Date:23/03/2024
+# Date:
 
 ## Aim:
 To write a python program to find the rank of a matrix

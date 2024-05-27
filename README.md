@@ -1,4 +1,4 @@
-# Ex:RANK-OF-A-MATRIX
+# Ex:2.RANK-OF-A-MATRIX
 
 # Date:23/03/2024
 
